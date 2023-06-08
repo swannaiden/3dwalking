@@ -1,3 +1,6 @@
+## Forked from Isaac Gym Benchmark Enviroments. Train humanoid.py to train ADAM as seen in senior thesis
+
+
 # Isaac Gym Benchmark Environments
 
 [Website](https://developer.nvidia.com/isaac-gym) | [Technical Paper](https://arxiv.org/abs/2108.10470) | [Videos](https://sites.google.com/view/isaacgym-nvidia)
